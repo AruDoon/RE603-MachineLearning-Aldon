@@ -10,3 +10,6 @@ Prodi    : Robotika <br>
 
 ## Latest Upadte Repository 
 Penyelesaian pengerjaan tugas Week-2 [Basic Python Programming Hands-On via Interactive ipynb]
+
+## Extra Notes
+Please Ignore **RandomFolderIgnore**, This containes previous files and folders of this Repository for important backtracking.
