@@ -2,10 +2,11 @@
 
 ---
 ## Keterangan Info Pemilik Repo 
-Nama     : Aldon Zufar Putra Twyn
-NIM      : 4222301042
-Kelas    : Robotika - B Pagi
-Semester : 6
-Prodi    : Robotika
+Nama     : Aldon Zufar Putra Twyn <br>
+NIM      : 4222301042 <br>
+Kelas    : Robotika - B Pagi <br>
+Semester : 6 <br>
+Prodi    : Robotika <br>
 
-## Upadte Repository 
+## Latest Upadte Repository 
+Penyelesaian pengerjaan tugas Week-2 [Basic Python Programming Hands-On via Interactive ipynb]
