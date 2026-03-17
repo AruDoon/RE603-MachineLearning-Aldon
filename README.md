@@ -8,8 +8,8 @@ Kelas    : Robotika - B Pagi <br>
 Semester : 6 <br>
 Prodi    : Robotika <br>
 
-## Latest Upadte Repository 
-Penyelesaian pengerjaan tugas Week-2 [Basic Python Programming Hands-On via Interactive ipynb]
+## Latest Update Repository 
+Penyelesaian pengerjaan tugas Week-3 [Data EDA]
 
 ## Extra Notes
 Please Ignore **RandomFolderIgnore**, This containes previous files and folders of this Repository for important backtracking.
