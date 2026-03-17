@@ -31,4 +31,6 @@ Target dari analisis ini adalah memahami faktor-faktor yang mempengaruhi custome
 
 ---
 
+# OUTPUT TUGAS
+
 Untuk melihat hasil dari tugas yang saya kerjakan, dapat dilihat dengan membuka file bernama "Assignment_Week 3.ipynb"
