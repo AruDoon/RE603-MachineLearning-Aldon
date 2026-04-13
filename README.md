@@ -9,7 +9,7 @@ Semester : 6 <br>
 Prodi    : Robotika <br>
 
 ## Latest Update Repository 
-Penyelesaian pengerjaan tugas Week-3 [Data EDA]
+Penyelesaian pengerjaan tugas Week-4 [Regresi Linear]
 
 ## Extra Notes
 Please Ignore **RandomFolderIgnore**, This containes previous files and folders of this Repository for important backtracking.

@@ -1,6 +1,6 @@
 # WEEK-4 Regresi Linear
 
-Membahas tentang Regresi Linear dala Supervised Learning. <br>
+Membahas tentang Regresi Linear dalam Supervised Learning. <br>
 
 Tujuan utama regresi: Membangun model yang dapat memprediksi variabel target (dependen) berdasarkan satu atau lebih variabel independen (fitur).
 
