@@ -9,7 +9,5 @@ Semester : 6 <br>
 Prodi    : Robotika <br>
 
 ## Latest Update Repository 
-Pengerjaan tugas Week-5 [KNN]
+Penyelesaian, penyempurnaan dan juga penambahan file `README` untuk tugas week **5**, **6**, dan juga **7**
 
-## Extra Notes
-Please Ignore **RandomFolderIgnore**, This containes previous files and folders of this Repository for important backtracking.
