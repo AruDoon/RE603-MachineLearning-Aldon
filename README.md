@@ -9,5 +9,5 @@ Semester : 6 <br>
 Prodi    : Robotika <br>
 
 ## Latest Update Repository 
-Penyelesaian, penyempurnaan dan juga penambahan file `README` untuk tugas week **5**, **6**, dan juga **7**
+Penambahan file Asasemen Tengah Semester `Week-8&9 [Mid Semester Exam]`
 
