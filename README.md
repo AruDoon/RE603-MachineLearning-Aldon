@@ -9,5 +9,5 @@ Semester : 6 <br>
 Prodi    : Robotika <br>
 
 ## Latest Update Repository 
-Penambahan file Asasemen Tengah Semester `Week-8&9 [Mid Semester Exam]`
+Peyelesaian Assignment Week-8 `Week-8 [Unsupervised Learning]`
 
