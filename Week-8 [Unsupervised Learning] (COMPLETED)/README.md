@@ -1,6 +1,7 @@
 # WEEK-8 Unsupervised Learning
 Dataset yang digunakan:
 - `berat_tinggi.csv`
+- `WineQT.csv`
 
 <br>
 
