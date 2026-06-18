@@ -8,8 +8,8 @@ Kelas    : Robotika - B Pagi <br>
 Semester : 6 <br>
 Prodi    : Robotika <br>
 
-### Latest Update Repository 
-Peyelesaian Tugas **Practive Week-9 Penggunaan MLP pada dataset Iris** `Week-9 [MLP]` dan juga **Practice Week-10 Penggunaan vision CNN untuk mendeteksi jenis Sampah** `Week-10 [CNN]`  
+> ## Latest Update Repository 
+> Peyelesaian Tugas **Practive Week-9 Penggunaan MLP pada dataset Iris** `Week-9 [MLP]` dan juga **Practice Week-10 Penggunaan vision CNN untuk mendeteksi jenis Sampah** `Week-10 [CNN]`  
 
 ---
 ---
