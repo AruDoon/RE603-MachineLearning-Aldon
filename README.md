@@ -73,4 +73,3 @@ Garis hijau vertikal memisahkan Tahap 1 (Feature Extraction) dan Tahap 2 (Fine-T
 ![Prediksi Grid](<Week-13&14 [TransferLearning and Validation] (COMPLETED)/Pictures/tl_prediksi_grid.png>)
 
 ---
-![Contoh Gambar](<Pictures/tl_confusion_matrix.png>)
